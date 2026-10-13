@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qwerpap.github.io/brickworth-legal/sitemap.xml
